@@ -1,0 +1,17 @@
+.square{
+  display: inline-block;
+  float: left;
+  width: 25%;
+  height: 200px;
+  font-size: 50px;
+  color: white;
+  background: black;
+  border: 8px solid gray;
+  text-align: center;
+  line-height: 200px;
+}
+
+P {
+  padding: 0;
+  margin: 0;
+}
